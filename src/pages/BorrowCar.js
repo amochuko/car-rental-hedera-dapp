@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+// @ts-nocheck
+import React, { useEffect, useState } from 'react';
 import { TokenId } from "@hashgraph/sdk";
 import moment from "moment";
 

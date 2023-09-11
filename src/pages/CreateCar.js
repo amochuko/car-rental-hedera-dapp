@@ -1,4 +1,5 @@
-import { useState } from "react";
+// @ts-nocheck
+import React, { useState } from 'react';
 
 function CreateCar({ createCar }) {
   const [isLoading, setIsLoading] = useState(false);
